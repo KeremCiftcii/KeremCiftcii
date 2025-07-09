@@ -38,7 +38,7 @@ Basic knowledge of `Azure`, `Docker`
 
 ## 🌍 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/keremciftci)  
+- [LinkedIn](https://linkedin.com/in/kerem-çiftçi-1ba312326/)  
 - [GitHub](https://github.com/KeremCiftcii)
 
 ---
