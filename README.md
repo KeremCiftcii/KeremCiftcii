@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kerem Çiftçi
 
-🎓 I'm a 2-year Computer Programming student  
+🎓 I'm a 2 year Computer Programming student  
 💻 I've been involved in software development for 2 years  
 🧑‍💻 I'm a Full Stack Junior Developer  
 🎯 Specializing in .NET technologies  
